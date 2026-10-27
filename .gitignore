@@ -1,0 +1,10 @@
+# Generated locally, not part of the source: checkpoints are large
+# binary weight files, wandb/ is local tracking output, and the
+# submission ZIP is the Google Form deliverable, built from the
+# notebook and the PDF (both of which ARE committed).
+results/*.npz
+results/wandb/
+wandb/
+__pycache__/
+.pytest_cache/
+submission/*.zip

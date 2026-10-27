@@ -1,0 +1,12 @@
+# Python 3.10+ recommended. NumPy does the network; the rest is only
+# for tables, plots, metrics, tracking and tests, as the assignment allows.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+wandb
+pytest
+jupyter
+nbconvert
+ipykernel
