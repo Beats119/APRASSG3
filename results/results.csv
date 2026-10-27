@@ -1,0 +1,7 @@
+run,config,width,activation,layers,parameters,best_val_acc,best_epoch,training_time_s
+0,run0_width32_sigmoid,32,sigmoid,1,98666,0.392,19,10.3
+1,run1_width32_relu,32,relu,1,98666,0.3685,20,7.9
+2,run2_width64_sigmoid,64,sigmoid,1,197322,0.4015,15,12.0
+3,run3_width64_relu,64,relu,1,197322,0.3785,18,12.6
+4,run4_width128_sigmoid,128,sigmoid,1,394634,0.397,19,16.0
+5,run5_width128_relu,128,relu,1,394634,0.4105,18,16.2
